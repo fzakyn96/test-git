@@ -1,3 +1,4 @@
 <?php
-    echo "belum siap bener";
+    echo "satu";
+    echo "dua";
 ?>
