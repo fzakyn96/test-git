@@ -1,3 +1,3 @@
 <?php
-    echo "belum siap";
+    echo "belum siap bener";
 ?>
